@@ -1,6 +1,6 @@
-# fly.toml file generated for flask-min-pythonapp on 2022-09-19T23:37:02+09:00
+# fly.toml file generated for flask-python-app on 2022-10-03T00:10:24+09:00
 
-app = "flask-min-pythonapp"
+app = "flask-python-app"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
