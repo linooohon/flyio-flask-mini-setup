@@ -1,6 +1,6 @@
-# fly.toml file generated for flask-min-custom-docker on 2022-09-19T23:45:09+09:00
+# fly.toml file generated for flask-python-app-docker on 2022-10-03T01:05:07+09:00
 
-app = "flask-min-custom-docker"
+app = "flask-python-app-docker"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
